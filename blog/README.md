@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: LittlerLyn #TODO: 你博客的名称
+heroText: 张浩宇大爹慧慧 #TODO: 你博客的名称
 heroFullScreen: true
 tagline: 半斤八两的爱驯服不了我 le marais #TODO: 你可以在这里放置你的口号与标语
 projects:
